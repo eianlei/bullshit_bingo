@@ -1,7 +1,7 @@
 # Bullshit Bingo Table Generator
 
 ## Overview
-This script generates a random 5x5 word table from a list of words in the text file bullshit.txt or any list of buzzwords given as argument. It can generate plans ASCII tables or a HTML table. 
+This script generates a random 5x5 word table from a list of words in the text file bullshit.txt or any list of buzzwords given as argument. It can generate a plain ASCII table or a HTML table. 
 
 It can be used to play the game called [bullshit bingo](https://en.wikipedia.org/wiki/Buzzword_bingo).
 
