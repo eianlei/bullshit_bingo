@@ -1,4 +1,4 @@
-# Word Table Generator
+# Bullshit Bingo Table Generator
 
 ## Overview
 This script generates a random 5x5 word table from a list of AI and machine learning related terms.
@@ -6,7 +6,8 @@ This script generates a random 5x5 word table from a list of AI and machine lear
 It can be used to play the game called [bullshit bingo](https://en.wikipedia.org/wiki/Buzzword_bingo).
 
 ## What it Does
-1. **Reads words** from `bullshit.txt` - a file containing AI/ML terminology
+1. **Reads words** from `bullshit.txt` - here an example file containing AI/ML terminology, but you can easily generate your own file of buzzwords of your choosing.
+
 2. **Selects 25 random words** from the available words
 3. **Shuffles** the selected words randomly
 4. **Creates a formatted table** using PrettyTable with the following features:
