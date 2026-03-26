@@ -92,7 +92,7 @@ With `--html` option, it creates a complete HTML document with:
 +------------------+------------------+------------------+------------------+------------------+
 ```
 ### HTML
-[bs.html](bs.html)
+[HTML code bs.html](bs.html)
 
-https://htmlpreview.github.io/?https://github.com/eianlei/bullshit_bingo/blob/main/bs.html
+[rendered example](https://htmlpreview.github.io/?https://github.com/eianlei/bullshit_bingo/blob/main/bs.html)
 
