@@ -1,5 +1,22 @@
 # Bullshit Bingo Table Generator
-
+```
++--------------+------------------+-----------------+------------------+------------------+
+| Team player  |      Pivot       |  Bleeding edge  |  Paradigm shift  |   Take offline   |
+|              |                  |                 |                  |                  |
++--------------+------------------+-----------------+------------------+------------------+
+|  Takeaways   |    Circle the    | Move the needle |   Granularity    |    Touch base    |
+|              |      wagons      |                 |                  |                  |
++--------------+------------------+-----------------+------------------+------------------+
+| Brand equity |     Optimize     |   Circle back   |     Push the     |    Disruptive    |
+|              |                  |                 |     envelope     |    innovation    |
++--------------+------------------+-----------------+------------------+------------------+
+| On the radar |   Action plan    |   Pain points   |       Silo       |   Low-hanging    |
+|              |                  |                 |                  |      fruit       |
++--------------+------------------+-----------------+------------------+------------------+
+| Stakeholders |     Move the     |  Going forward  |      Value       |     Blue-sky     |
+|              |    goalposts     |                 |   proposition    |     thinking     |
++--------------+------------------+-----------------+------------------+------------------+
+```
 ## Overview
 This script generates a random 5x5 word table from a list of words in the text file bullshit.txt or any list of buzzwords given as argument. It can generate a plain ASCII table or a HTML table. 
 
